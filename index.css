@@ -1,0 +1,9 @@
+.pagination a {
+    display: inline-block; /* Display the links as inline blocks */
+    padding: 10px; /* Add padding for spacing */
+    text-decoration: none; /* Remove default underline */
+    color: black; /* Set text color */
+    border: 1px solid black; /* Add border */
+    margin-left: 60px;
+    margin-top: 350px; /* Add margin for spacing between links */
+  }
